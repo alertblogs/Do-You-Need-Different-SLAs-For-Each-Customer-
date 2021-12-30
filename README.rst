@@ -1,40 +1,22 @@
-AlertOps Expert Guidance
+Do You Need Different SLAs For Each Customer?
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Let’s face it! It’s a fact that each of your customers wants to know that their support requests are being met on time, every time.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+A service level agreement (SLA) allows you to do just that. AlertOps’ SLA policy will allow you to set new standards, by creating SLA policies for tickets based on their priorities and severity, set up rules for each customer’s company, group or department, along with setting up automatic escalation notifications to users and managers about SLA violations. With AlertOps, you can also set up specific operating hours and on-call schedules for each SLA policy, allowing you to leverage your customer support.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+It’s not fun having your customer yelling at you for their emergency incident, that happened to slip thru the cracks while you were working on another non-emergency incident, right? Then look no further, AlertOps’ allows you to setup multiple SLA policies and configure them with specific targets so you can ensure no SLA slips thru the cracks again. AlertOps will also help you to manage your service levels and speed-to-time resolution.
+Our SLA-based management allows you to define workflow timelines backwards and forwards, from an incidents-defined SLA deadlines.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+For example: if you have four critical incident types, each with a different SLA, and your workflow escalations can then be triggered based on a specific SLA. This allows you to alert team members and management when an SLA deadline is threatened. SLA-based service management allows you to better manages your service levels and at the same time prioritizes your service management workload.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+A lot of the time, your team will juggle different SLAs for each customer at once, and sometimes people need to set aside time to work on another. But it’s also likely that people would forget an assignment or two that they set aside! That’s why SLA policies are so important. We can help you remember— on time, every time— so you can set triggers to send reminders out to teams based on the time before SLA deadline. Or set a trigger to notify a manager when an SLA is approaching or after an SLA has been missed.
+In AlertOps, you can set SLA globally by priority, or at the message rule level.  And when you are using SLA based management, you get a better view of how you’re performing against SLAs for specific priorities or policies.  So, with AlertOps you will never have an emergency SLA that slips thru the cracks when handling different SLA’s for each customer.  Collaboration and communication are keys to effective incident management, and AlertOps’ SLA based management give you a better set of tools to manage your multiple incidents.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/do-you-need-different-slas-for-each-customer/
 
 Read more:
 ====
